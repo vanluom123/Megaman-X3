@@ -1,4 +1,23 @@
-**Blast Hornet Stage**
+# Megaman X3 Game
+![Atom](https://github.com/vanluom123/DirectX9/blob/master/MegamanX3Final/DemoDirectX/DemoDirectX/Resources/IntroBackground/2342titlescreen.png)
+
+The game is written in C ++ language with DirectX 9.0c Engine to write games for games.
+
+You can download here DirectX 9.0c.
+
+http://taimienphi.vn/doad-directx-90c-32/DirectX-9.0c-phien-ban.
+
+If you are a 8 or 9x generation gamer, you must have heard the name Mega Man (aka Rock Man in Japan). According to the plot of the main game series, Rock is a robot created in the laboratory of Dr. Thomas Light. You will control the character of Mega Man, using the Mega Buster weapon that is integrated on the arm, to destroy the enemy along the way. After defeating Master Robots (which we often call "bosses") in each level, Mega Man will be able to use that character's special weapon.
+
+Mega Man X Series: Capcom wants to upgrade the sound and graphics of the game from NES to SNES, so they released the Mega Man X game in 1993. This series introduces a new character with Graphics designed more complex graphics. Special emphasis on the guy "Mega Man X", upgraded from Rock by Dr. Light. Mega Man X3 is also in that development chain.
+
+Mega Man X3 is the 3rd installment in the famous legendary blue robot series. This time, the player not only plays Mega Man X but also Zero. In this version, the player will have to defeat Dr. Doppler with his Sigma enemy.
+
+The game begins with a large-scale Mavericks attack to destroy humanity. Mega Man X and Zero try to destroy the robot and capture Doppler to completely destroy the enemy. After being defeated, the doctor confesses that Sigma has forced a new robot to turn him into a dangerous virus. Your mission is to destroy this demon.
+
+Mega Man X3 has 8 parts, of course, encountering the boss will be the last part and also the hardest part. Complete each section, you will get a power upgrade and better equipped for the final battle. Try to move quickly, aim accurately to blow away the enemy and conquer the final prize.
+
+## Blast Hornet Stage
 
 ![](https://github.com/vanluom123/Megaman-X3/blob/master/Image/hornet(1).jpg)
 
