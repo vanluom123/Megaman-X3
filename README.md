@@ -27,7 +27,8 @@ the elevator and up past the Head Gunners. You won't be able to use this if this
 is your first time here, but above the exit of the elevator is the platform for
 summoning Ride Armors. Head right into an area with conveyor belts. 
 
-**Head Enhancement Chip**
+*Head Enhancement Chip*
+-----------------------
 
 ![Ảnh có chứa trong nhà Mô tả được tạo tự động](https://github.com/vanluom123/Megaman-X3/blob/master/Image/hornet(2).jpg)
 
