@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HinhAnh" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAERQQEARAMABBQAAkABEQAQBAAAJBAEQARBAABwA=</HashCode>
+      <FileName>HinhAnh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoatHinh" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAgAIAAACAAAAAIAAAAAAAAEAAIAAUQAAAA=</HashCode>
+      <FileName>HoatHinh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhChuNhat" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAACAQAAAAAAAABAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>KieuDuLieu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vec2" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAABggAAAAAA=</HashCode>
+      <FileName>KieuDuLieu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThoiGianGame" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAAAEAIAAAAAQAAAAAAAAAEAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ThoiGianGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToanCauGame" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABBCABAAABABABUAAEQAQSAAACAAAAAJAAABEA=</HashCode>
+      <FileName>ToanCauGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VaChamGame" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAACAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>VaChamGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManGame" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAAAACAIAAAAAAAAAAQAQIASIIIIAAAAAEAAAA=</HashCode>
+      <FileName>ManGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManGioiThieu" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAwAAIBACQIYAACgAACAAAAAoAAAAAIAAAAAEACAA=</HashCode>
+      <FileName>ManGioiThieu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAQAABAAAIABAEEAAAQAQAAAAACIEAAAAAAAAA=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAEAAAAIAAAAABAAAAQAQgAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyManGame" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuanLyManGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoiTuong" Collapsed="true">
+    <Position X="8.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAASAQAABAIAFEAAAEAAAQAQAAAAwAAEEABAAAAAA=</HashCode>
+      <FileName>DoiTuong.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoiTuongTinh" Collapsed="true">
+    <Position X="7" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAIAAAAAAAAAEAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DoiTuongTinh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GachVang" Collapsed="true">
+    <Position X="9.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAACAAAIAAAAAAAAAAACQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GachVang.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GachBinhThuong" Collapsed="true">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAQAABIAggAAAEAAAACQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GachBinhThuong.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mario" Collapsed="true">
+    <Position X="4.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAIABCAAIAAAQACAAQACAQFAAgAoAAAGAAAAACA=</HashCode>
+      <FileName>Mario.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="eKetQuaVaCham" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KieuDuLieu.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ePhiaVaCham" Collapsed="true">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQEARAAAAAAAAAAAIAAAAAAAAAQAAAABAEAAAAAAAA=</HashCode>
+      <FileName>KieuDuLieu.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="eLoaiDoiTuong" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAIAAAAAAAAAAAIAAAACAAAAAAAAAQAABQAAA=</HashCode>
+      <FileName>KieuDuLieu.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="eHuongDiChuyen" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAABBAAAAAAAAAA=</HashCode>
+      <FileName>KieuDuLieu.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="eTrangThai" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAAAAAAQAAAAAAAAACAIAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>KieuDuLieu.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

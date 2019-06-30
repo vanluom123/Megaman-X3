@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="FileDocMap">
+      <UniqueIdentifier>{3bdb088f-fe07-4b71-84ec-5724b56d9727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.FileMoRong">
+      <UniqueIdentifier>{3e87e4a7-5cc9-49de-af38-7da0545a7ea8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.NenTang">
+      <UniqueIdentifier>{95f4a8bc-7b8a-4158-8ddd-6a7355f162df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.ManGame">
+      <UniqueIdentifier>{c026a73f-790e-4650-aed6-29fe2f1eeb48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.DieuKhien">
+      <UniqueIdentifier>{82ddea42-1406-439d-8805-0f1c3c2c32c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.DoiTuong">
+      <UniqueIdentifier>{327dbaa2-0f46-4f2e-aeec-9d3956c84b71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.DoiTuong\XMan%27s">
+      <UniqueIdentifier>{997cbb7c-b6f1-42fb-bd79-04ea01516392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.DoiTuong\Quai">
+      <UniqueIdentifier>{4889a575-723c-4414-abac-d77961054353}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxTile.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxTileLayer.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxTileOffset.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxTileset.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxUtil.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\base64.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\miniz.c">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\tinyxml2.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxEllipse.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxImage.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxImageLayer.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxLayer.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxMap.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxObject.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxObjectGroup.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxPolygon.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxPolyline.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxPropertySet.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxTerrain.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader\TmxTerrainArray.cpp">
+      <Filter>FileDocMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuanLyManGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DoiTuong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HinhAnh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HoatHinh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThoiGianGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ToanCauGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VaChamGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDebugDraw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Man1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HieuUngLuot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HieuUngBatRa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanLv1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanLv2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanLv3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanLv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ech.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThanhMau.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanNo1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XacUop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DS_HinhAnh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoCot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TenLua.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThangMay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrucXoay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CuaDanhBoss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BOSS1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MayBay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BOSS2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pet1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pet2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DanSang.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BOSS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OngCon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HongTam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HieuUngMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MapReader\TmxTerrainArray.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxTile.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxTileLayer.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxTileOffset.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxTileset.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxUtil.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\zconf.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\zlib.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\base64.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\tinyxml2.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxEllipse.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxImage.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxImageLayer.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxLayer.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxMap.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxMapTile.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxObject.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxObjectGroup.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxPoint.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxPolygon.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxPolyline.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxPropertySet.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapReader\TmxTerrain.h">
+      <Filter>FileDocMap</Filter>
+    </ClInclude>
+    <ClInclude Include="QuanLyManGame.h">
+      <Filter>3.DieuKhien</Filter>
+    </ClInclude>
+    <ClInclude Include="HinhAnh.h">
+      <Filter>1.NenTang</Filter>
+    </ClInclude>
+    <ClInclude Include="HoatHinh.h">
+      <Filter>1.NenTang</Filter>
+    </ClInclude>
+    <ClInclude Include="ThoiGianGame.h">
+      <Filter>1.NenTang</Filter>
+    </ClInclude>
+    <ClInclude Include="ToanCauGame.h">
+      <Filter>1.NenTang</Filter>
+    </ClInclude>
+    <ClInclude Include="VaChamGame.h">
+      <Filter>1.NenTang</Filter>
+    </ClInclude>
+    <ClInclude Include="ManGame.h">
+      <Filter>2.ManGame</Filter>
+    </ClInclude>
+    <ClInclude Include="DoiTuong.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="DoiTuongTinh.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>3.DieuKhien</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>3.DieuKhien</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>1.NenTang</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLog.h">
+      <Filter>0.FileMoRong</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDebugDraw.h">
+      <Filter>0.FileMoRong</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>0.FileMoRong</Filter>
+    </ClInclude>
+    <ClInclude Include="Man1.h">
+      <Filter>2.ManGame</Filter>
+    </ClInclude>
+    <ClInclude Include="XMan.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="HieuUngLuot.h">
+      <Filter>4.DoiTuong\XMan%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="HieuUngBatRa.h">
+      <Filter>4.DoiTuong\XMan%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="DanLv1.h">
+      <Filter>4.DoiTuong\XMan%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="DanLv2.h">
+      <Filter>4.DoiTuong\XMan%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="DanLv3.h">
+      <Filter>4.DoiTuong\XMan%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="DanLv.h">
+      <Filter>4.DoiTuong\XMan%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Ech.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="ThanhMau.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="DanNo1.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="XacUop.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="Bui.h">
+      <Filter>4.DoiTuong\XMan%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="DS_HinhAnh.h" />
+    <ClInclude Include="LoCot.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="TenLua.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="ThangMay.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="KieuDuLieu.h" />
+    <ClInclude Include="TrucXoay.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="CuaDanhBoss.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="BOSS1.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="MayBay.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="Pet1.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="Pet2.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="DanSang.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>4.DoiTuong\Quai</Filter>
+    </ClInclude>
+    <ClInclude Include="BOSS2.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="BOSS.h" />
+    <ClInclude Include="OngCon.h" />
+    <ClInclude Include="HongTam.h" />
+    <ClInclude Include="Item.h">
+      <Filter>4.DoiTuong</Filter>
+    </ClInclude>
+    <ClInclude Include="HieuUngMap.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MapReader\Tmx.h.in">
+      <Filter>FileDocMap</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
