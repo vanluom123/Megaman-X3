@@ -1,6 +1,6 @@
 ﻿#pragma once
 
-#include <tmxparser/Tmx.h>
+#include "MapReader/Tmx.h.in"
 #include "HinhAnh.h"
 
 // Là 1 lớp giao diện, sử dụng để gọi đến Màn Game thực sự
