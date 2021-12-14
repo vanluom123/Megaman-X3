@@ -1,5 +1,5 @@
 # Megaman X3 Game
-![Atom](https://github.com/vanluom123/DirectX9/blob/master/MegamanX3Final/DemoDirectX/DemoDirectX/Resources/IntroBackground/2342titlescreen.png)
+![Atom](https://github.com/vanluom123/Megaman-X3/blob/master/Image/Mega-Man-X3-PC.png)
 
 The game is written in C ++ language with DirectX 9.0c Engine to write games for games.
 
