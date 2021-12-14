@@ -5,7 +5,7 @@ The game is written in C ++ language with DirectX 9.0c Engine to write games for
 
 You can download here DirectX 9.0c.
 
-http://taimienphi.vn/doad-directx-90c-32/DirectX-9.0c-phien-ban.
+https://www.microsoft.com/en-us/download/details.aspx?id=6812
 
 If you are a 8 or 9x generation gamer, you must have heard the name Mega Man (aka Rock Man in Japan). According to the plot of the main game series, Rock is a robot created in the laboratory of Dr. Thomas Light. You will control the character of Mega Man, using the Mega Buster weapon that is integrated on the arm, to destroy the enemy along the way. After defeating Master Robots (which we often call "bosses") in each level, Mega Man will be able to use that character's special weapon.
 
