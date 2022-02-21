@@ -1,3 +1,8 @@
+# Build source
+1. Install DirectX 9.0c with link below. Before installing DirectX 9.0c, please remove Microsoft C++10 by opening program uninstaller on windows
+https://www.microsoft.com/en-us/download/details.aspx?id=6812
+2. Install Microsoft Visual Studio 2022
+
 # Megaman X3 Game
 ![Atom](https://github.com/vanluom123/Megaman-X3/blob/master/Image/Mega-Man-X3-PC.png)
 
@@ -135,4 +140,4 @@ won't even take a hit. 
 This will latch on to small enemies and explode. If there's another enemy
 nearby, it will carry the first enemy and slam it into the second enemy and
 destroy them both. Neat! If you charge it, homing reticles will appear around X
-and target enemies, sending tiny hornets after them. 
+and target enemies, sending tiny hornets after them.
